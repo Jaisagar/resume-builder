@@ -1,0 +1,858 @@
+{
+  "users": [
+    {
+      "id": "6922",
+      "firstname": "Potzner",
+      "lastname": "Andreas Marcus",
+      "profilePic": "http://localhost:3000/viewresume/uploads/Potzner.jpg",
+      "email": "potzner.ebs@supplyinstitute.org",
+      "phone": "9755905540",
+      "fulladdress": "Kastellstraße 1; 65183 Wiesbaden; Germany",
+      "city": "Wiesbaden",
+      "country": "Germany",
+      "linkedinurl": "https://in.linkedin.com/",
+      "facebookurl": "https://www.facebook.com/",
+      "twitterurl": "https://x.com/",
+      "degreequalification": "European Business School (ebs) International University Schloß Reichartshausen,",
+      "degreeinstitutionname": "Postgraduate Assistant to the SVI-Endowed Chair of Purchasing, Logistics and Supply Chain",
+      "degreeinstitutionlocation": "Reichartshausen",
+      "degreepassingyears": "2007",
+      "degreegradescgpa": "Grades: 5.6",
+      "collageboardname": "Johann Wolfgang Goethe-University, Frankfurt (Germany)",
+      "collagename": "Degree in Business Administration (Diplom-Kaufmann) Majors: Supply Chain Management & Marketing, Business Informatics",
+      "collagelocation": "Germany",
+      "collagecgpa": "Grades: 5.1",
+      "collagepassingyears": "2004",
+      "schoolboardname": "Kopernikusschule, Freigericht (Germany)",
+      "schoolname": "A-levels (high school graduation)",
+      "schoollocation": "Germany",
+      "schoolcgpa": "Grades: 2.2",
+      "schoolpassingyears": "2000",
+      "jobtitle": "Research Focuses / Title of Dissertation",
+      "organizationname": "Innovation management, Supply chain management, Aviation industry",
+      "organizationlocation": "Germany",
+      "datesemployment": "03/05 - 06/05",
+      "usetechnology": "I bring a strategic and analytical approach, underpinned by a deep understanding of cryptocurrency markets, digital asset financial management, compliance, and regulatory frameworks. With over fwo decades of experience at the foretront of digital asset financial technology [FinTech) ",
+      "technicalskill": "Excel, PowerPoint, Microsoft,",
+      "language": "Germany, English, French",
+      "software": "Microsoft, DMPS, ERP MANAGMENT",
+      "summary": "With over fwo decades of experience at the foretront of digital asset financial technology [FinTech) integration across the entire spectrum of financial service company operations, I bring a strategic and analytical approach, underpinned by a deep understanding of cryptocurrency markets, digital asset financial management, compliance, and regulatory frameworks. With over fwo decades of experience at the foretront of digital asset financial technology [FinTech) integration across the entire spectrum of financial service company operations, I bring a strategic and analytical approach, underpinned by a deep understanding of cryptocurrency markets, digital asset financial management, compliance, and regulatory frameworks.",
+      "responsibilitiesachievements": "European Aviation"
+    },
+    {
+      "id": "f06b",
+      "firstname": "Rahul",
+      "lastname": "Sharma",
+      "profilePic": "",
+      "email": "rahul.sharma@email.com",
+      "phone": "91 98765 43210",
+      "fulladdress": "New Delhi, India",
+      "city": "New Delhi, India",
+      "country": "India",
+      "linkedinurl": "https://rahulportfolio.com",
+      "facebookurl": "https://linkedin.com/in/rahulsharma",
+      "twitterurl": "https://github.com/rahulsharma",
+      "degreequalification": "B.Tech in Computer Science",
+      "degreeinstitutionname": "Delhi Technical University",
+      "degreeinstitutionlocation": "",
+      "degreepassingyears": "2021",
+      "degreegradescgpa": "Git",
+      "collageboardname": "Tech in Computer",
+      "collagename": "Technical University",
+      "collagelocation": "Delhi",
+      "collagecgpa": "Git",
+      "collagepassingyears": "2023",
+      "schoolboardname": "Technical University",
+      "schoolname": "Technical University",
+      "schoollocation": "Delhi",
+      "schoolcgpa": "Git",
+      "schoolpassingyears": "2026",
+      "jobtitle": "Frontend Developer",
+      "organizationname": "Tech Solutions Pvt Ltd",
+      "organizationlocation": "Delhi",
+      "datesemployment": "Jun 2020",
+      "usetechnology": "Delhi Technical",
+      "technicalskill": "React Developer Certification",
+      "language": "English Hindi",
+      "software": "GJHGJGHJ",
+      "summary": "Passionate Frontend Developer with 3+ years of experience building responsive and user-friendly web applications using modern technologies like React, Next.js, and TypeScript.",
+      "responsibilitiesachievements": "Built and maintained client websites using HTML, CSS, and JavaScript"
+    },
+    {
+      "id": "5846",
+      "firstname": "",
+      "lastname": "",
+      "profilePic": "",
+      "email": "",
+      "phone": "",
+      "fulladdress": "",
+      "city": "",
+      "country": "",
+      "linkedinurl": "",
+      "facebookurl": "",
+      "twitterurl": "",
+      "degreequalification": "",
+      "degreeinstitutionname": "",
+      "degreeinstitutionlocation": "",
+      "degreepassingyears": "",
+      "degreegradescgpa": "",
+      "collageboardname": "",
+      "collagename": "",
+      "collagelocation": "",
+      "collagecgpa": "",
+      "collagepassingyears": "",
+      "schoolboardname": "",
+      "schoolname": "",
+      "schoollocation": "",
+      "schoolcgpa": "",
+      "schoolpassingyears": "",
+      "jobtitle": "",
+      "organizationname": "",
+      "organizationlocation": "",
+      "datesemployment": "",
+      "usetechnology": "",
+      "technicalskill": "",
+      "language": "",
+      "software": "",
+      "summary": "GET request to list all saved users with their preview pics in Next.js (like a dashboard after form submit)?",
+      "responsibilitiesachievements": ""
+    },
+    {
+      "id": "1401",
+      "firstname": "Sagar",
+      "lastname": "Kumar",
+      "profilePic": "",
+      "email": "sagar@gmail.com",
+      "phone": "9090909090",
+      "fulladdress": "Noida sector 62",
+      "city": "Noida",
+      "country": "India",
+      "linkedinurl": "https://rahulportfolio.com",
+      "facebookurl": "https://linkedin.com/in/rahulsharma",
+      "twitterurl": "https://github.com/rahulsharma",
+      "degreequalification": "B.Tech in Computer Science",
+      "degreeinstitutionname": "Delhi Technical University",
+      "degreeinstitutionlocation": "Varansi",
+      "degreepassingyears": "2010",
+      "degreegradescgpa": "68%",
+      "collageboardname": "CBSE Board Delhi",
+      "collagename": "Computer Science",
+      "collagelocation": "Delhi",
+      "collagecgpa": "58%",
+      "collagepassingyears": "2020",
+      "schoolboardname": "Inter Mediate ",
+      "schoolname": "UP Board Delhi",
+      "schoollocation": "New Delhi",
+      "schoolcgpa": "98%",
+      "schoolpassingyears": "2021",
+      "jobtitle": "Frontend Developer",
+      "organizationname": "Ecommerce Website",
+      "organizationlocation": "Delhi",
+      "datesemployment": "2023",
+      "usetechnology": "UI/UX Designer",
+      "technicalskill": "HTML, CSS, JAVASCRIPT",
+      "language": "English",
+      "software": "Udemy",
+      "summary": "Passionate Frontend Developer with 3+ years of experience building responsive and user-friendly web applications using modern technologies like React, Next.js, and TypeScript.",
+      "responsibilitiesachievements": "React Developer Certification"
+    },
+    {
+      "id": "2232",
+      "firstname": "Nameless",
+      "lastname": " Wolf",
+      "profilePic": "",
+      "email": "Nameless.Wolf@domainName.com",
+      "phone": "(333) 333-3333",
+      "fulladdress": "Miami, FL",
+      "city": "Miami",
+      "country": "California",
+      "linkedinurl": "Wolf@domainName.com",
+      "facebookurl": "Wolf@domainName.com",
+      "twitterurl": "Wolf@domainName.com",
+      "degreequalification": "Bsc ",
+      "degreeinstitutionname": "agile environment",
+      "degreeinstitutionlocation": "Delhi",
+      "degreepassingyears": "2011",
+      "degreegradescgpa": "A",
+      "collageboardname": "seamless integration",
+      "collagename": "",
+      "collagelocation": "Board pf Dehradun",
+      "collagecgpa": "B",
+      "collagepassingyears": "2012",
+      "schoolboardname": "seamless integration",
+      "schoolname": "seamless integration",
+      "schoollocation": "Dehradun",
+      "schoolcgpa": "A",
+      "schoolpassingyears": "seamless integration",
+      "jobtitle": "BlueTech Software",
+      "organizationname": "BlueTech Software",
+      "organizationlocation": "California",
+      "datesemployment": "July 2019",
+      "usetechnology": "C, Java, Sdlc, Software Development, Linux, C#, Communication Skills",
+      "technicalskill": "C, Java, Sdlc, Software Development, Linux, C#, Communication Skills",
+      "language": "English",
+      "software": "Linux",
+      "summary": "Competent software engineer, able to work effectively in a fast-paced, agile environment, and passionate about developing software architecture for primarily web applications.",
+      "responsibilitiesachievements": "Software Engineer"
+    },
+    {
+      "id": "b40e",
+      "firstname": "",
+      "lastname": "",
+      "profilePic": "",
+      "email": "",
+      "phone": "",
+      "fulladdress": "",
+      "city": "",
+      "country": "",
+      "linkedinurl": "",
+      "facebookurl": "",
+      "twitterurl": "",
+      "degreequalification": "",
+      "degreeinstitutionname": "",
+      "degreeinstitutionlocation": "",
+      "degreepassingyears": "",
+      "degreegradescgpa": "",
+      "collageboardname": "",
+      "collagename": "",
+      "collagelocation": "",
+      "collagecgpa": "",
+      "collagepassingyears": "",
+      "schoolboardname": "",
+      "schoolname": "",
+      "schoollocation": "",
+      "schoolcgpa": "",
+      "schoolpassingyears": "",
+      "jobtitle": "",
+      "organizationname": "",
+      "organizationlocation": "",
+      "datesemployment": "",
+      "usetechnology": "",
+      "technicalskill": "",
+      "language": "",
+      "software": "",
+      "summary": "sdsa",
+      "responsibilitiesachievements": ""
+    },
+    {
+      "firstname": "John ",
+      "lastname": "Smith",
+      "profilePic": "",
+      "email": "john.smith@example.com",
+      "phone": "+1 (555) 123-4567",
+      "fulladdress": "XYZ University",
+      "city": "Delhi",
+      "country": "India",
+      "linkedinurl": "smith@example.com",
+      "facebookurl": "smith@example.com",
+      "twitterurl": "smith@example.com",
+      "degreequalification": "Bachelor of Technology (B.Tech) in Computer Science",
+      "degreeinstitutionname": "ABC University",
+      "degreeinstitutionlocation": "Honors",
+      "degreepassingyears": "2016 – 2020",
+      "degreegradescgpa": "85%",
+      "collageboardname": "Higher Secondary Education (12th Grade)",
+      "collagename": "XYZ Senior Secondary School",
+      "collagelocation": "distinction",
+      "collagecgpa": "85%",
+      "collagepassingyears": "2014 – 2016",
+      "schoolboardname": "Secondary Education (10th Grade)",
+      "schoolname": "XYZ Public School",
+      "schoollocation": "Honors",
+      "schoolcgpa": "95%",
+      "schoolpassingyears": "2013 – 2014",
+      "jobtitle": "Senior Full Stack Developer",
+      "organizationname": "Tech Solutions Pvt. Ltd.",
+      "organizationlocation": "Enterprise",
+      "datesemployment": "Jan 2023 – Present",
+      "usetechnology": "Developed and maintained enterprise-level web applications using Next.js and Node.js. Led a team of 5 developers in delivering client projects on time.",
+      "technicalskill": "JavaScript (ES6+) TypeScript React.js Next.js Node.js Express.js MongoDB MySQL HTML5 & CSS3",
+      "language": "English (Professional) Hindi (Native)",
+      "software": "React & Next.js Node.js",
+      "summary": "Results-driven Full Stack Developer with 5+ years of experience in designing, developing, and maintaining scalable web applications. Proficient in JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, and database management. Experienced in building responsive user interfaces, RESTful APIs, authentication systems, and cloud-based solutions. Strong problem-solving abilities with a passion for delivering high-quality software solutions and collaborating effectively within cross-functional teams.",
+      "responsibilitiesachievements": "Integrated third-party APIs and payment gateways.",
+      "id": "9Fwd5kr"
+    },
+    {
+      "firstname": "Jitendra",
+      "lastname": "Jha",
+      "profilePic": "/uploads/1762.jpg",
+      "email": "jeetu@resumemaker.in",
+      "phone": "+91-(856) 000-5666",
+      "fulladdress": "I can grow in terms of knowledge,",
+      "city": "Haryana",
+      "country": "India",
+      "linkedinurl": "jeetu@resumemaker.in",
+      "facebookurl": "jeetu@resumemaker.in",
+      "twitterurl": "jeetu@resumemaker.in",
+      "degreequalification": "MBA/PGDM-Finance",
+      "degreeinstitutionname": "D K Marathe & N G Acharya",
+      "degreeinstitutionlocation": "Chembur",
+      "degreepassingyears": "1998-2000",
+      "degreegradescgpa": "9/7",
+      "collageboardname": "Bachelor of commerce",
+      "collagename": "D K Marathe & N G",
+      "collagelocation": "Chembur",
+      "collagecgpa": "9/7",
+      "collagepassingyears": "1995-1998",
+      "schoolboardname": "PGDM-Finance",
+      "schoolname": "Marathe & N G Acharya",
+      "schoollocation": "Chembur",
+      "schoolcgpa": "9/7",
+      "schoolpassingyears": "1990-1995",
+      "jobtitle": "Software Design & Development",
+      "organizationname": "KPMG, India",
+      "organizationlocation": "Kolkata",
+      "datesemployment": "2000-2001",
+      "usetechnology": ". Node Js . MySQL . React Js . Express Js . Angular 2+ . React Native",
+      "technicalskill": ". Express Js . Angular 2+ . React Native",
+      "language": "Hindi , English ",
+      "software": ". Express Js . Angular 2+ . React Native",
+      "summary": "To be a part of an organization where I can grow in terms of knowledge, skills and attitude and put an effective use of my analytical abilities and professional competence in the areas of industry , so as to align self-development with organizational development. I work head to achieve organization goals with honesty and desire to be recognized as a sincere, dedicated and respectable person.",
+      "responsibilitiesachievements": "Senior Executive in Audit",
+      "id": "nlscbiZ"
+    },
+    {
+      "firstname": "Jaihind Sagars",
+      "lastname": "Gautam",
+      "profilePic": "/uploads/c8a22295-c59e-4547-b57f-3c464cf74042.png",
+      "email": "jai9044119134@gmail.com",
+      "phone": "9099772890",
+      "fulladdress": "ADASDA",
+      "city": "jhdadaD",
+      "country": "ADSAFSF",
+      "linkedinurl": "https://in.linkedin.com/",
+      "facebookurl": "https://in.linkedin.com/",
+      "twitterurl": "https://in.linkedin.com/",
+      "degreequalification": "ccxzc",
+      "degreeinstitutionname": "fdf",
+      "degreeinstitutionlocation": "czvxv",
+      "degreepassingyears": "cdd",
+      "degreegradescgpa": "dsad",
+      "collageboardname": "ssa",
+      "collagename": "adad",
+      "collagelocation": "das",
+      "collagecgpa": "adad",
+      "collagepassingyears": "ass",
+      "schoolboardname": "ADd",
+      "schoolname": "ad",
+      "schoollocation": "dad",
+      "schoolcgpa": "adf",
+      "schoolpassingyears": "aff",
+      "experiences": [
+        {
+          "jobtitle": "dads",
+          "organizationname": "dsfa",
+          "organizationlocation": "dafa",
+          "datesemployment": "fsafaf",
+          "usetechnology": "Afa",
+          "responsibilitiesachievements": "dad"
+        },
+        {
+          "jobtitle": "CZCC",
+          "organizationname": "cZ",
+          "organizationlocation": "ccc",
+          "datesemployment": "cczc",
+          "usetechnology": "xx",
+          "responsibilitiesachievements": "dad"
+        }
+      ],
+      "technicalskills": [
+        "czxv",
+        "vzvv"
+      ],
+      "languages": [
+        "czxv",
+        "zvvvv"
+      ],
+      "softwareItems": [
+        "afsf",
+        "zvvv"
+      ],
+      "summary": "xvxvz",
+      "jobtitle": "dads",
+      "organizationname": "dsfa",
+      "organizationlocation": "dafa",
+      "datesemployment": "fsafaf",
+      "usetechnology": "Afa",
+      "responsibilitiesachievements": "dad",
+      "technicalskill": "czxv, vzvv",
+      "language": "czxv, zvvvv",
+      "software": "afsf, zvvv",
+      "sourceResume": "/uploads/d3b1f28b-b221-4185-95a0-a563e568de39.docx",
+      "id": "PcUArcp"
+    },
+    {
+      "firstname": "Jaihind Sagars",
+      "lastname": "Gautam",
+      "profilePic": "/uploads/c8a22295-c59e-4547-b57f-3c464cf74042.png",
+      "email": "jai9044119134@gmail.com",
+      "phone": "9099772890",
+      "fulladdress": "ADASDA",
+      "city": "jhdadaD",
+      "country": "ADSAFSF",
+      "linkedinurl": "https://in.linkedin.com/",
+      "facebookurl": "https://in.linkedin.com/",
+      "twitterurl": "https://in.linkedin.com/",
+      "degreequalification": "ccxzc",
+      "degreeinstitutionname": "fdf",
+      "degreeinstitutionlocation": "czvxv",
+      "degreepassingyears": "cdd",
+      "degreegradescgpa": "dsad",
+      "collageboardname": "ssa",
+      "collagename": "adad",
+      "collagelocation": "das",
+      "collagecgpa": "adad",
+      "collagepassingyears": "ass",
+      "schoolboardname": "ADd",
+      "schoolname": "ad",
+      "schoollocation": "dad",
+      "schoolcgpa": "adf",
+      "schoolpassingyears": "aff",
+      "experiences": [
+        {
+          "jobtitle": "dads",
+          "organizationname": "dsfa",
+          "organizationlocation": "dafa",
+          "datesemployment": "fsafaf",
+          "usetechnology": "Afa",
+          "responsibilitiesachievements": "dad"
+        },
+        {
+          "jobtitle": "CZCC",
+          "organizationname": "cZ",
+          "organizationlocation": "ccc",
+          "datesemployment": "cczc",
+          "usetechnology": "xx",
+          "responsibilitiesachievements": "dad"
+        }
+      ],
+      "technicalskills": [
+        "czxv",
+        "vzvv"
+      ],
+      "languages": [
+        "czxv",
+        "zvvvv"
+      ],
+      "softwareItems": [
+        "afsf",
+        "zvvv"
+      ],
+      "summary": "xvxvz",
+      "jobtitle": "dads",
+      "organizationname": "dsfa",
+      "organizationlocation": "dafa",
+      "datesemployment": "fsafaf",
+      "usetechnology": "Afa",
+      "responsibilitiesachievements": "dad",
+      "technicalskill": "czxv, vzvv",
+      "language": "czxv, zvvvv",
+      "software": "afsf, zvvv",
+      "sourceResume": "/uploads/d3b1f28b-b221-4185-95a0-a563e568de39.docx",
+      "id": "BJlmxAR"
+    }
+  ],
+  "resumes": [
+    {
+      "personalInfo": {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "phone": "+1234567890",
+        "location": "New York, USA"
+      },
+      "skills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js"
+      ],
+      "experience": [
+        {
+          "title": "Software Engineer",
+          "company": "TechCorp",
+          "duration": "2019 - Present",
+          "details": "Worked on developing scalable web applications."
+        }
+      ],
+      "education": [
+        {
+          "degree": "B.Sc. in Computer Science",
+          "institution": "University of XYZ",
+          "year": "2018"
+        }
+      ],
+      "id": "320f"
+    }
+  ],
+  "slides": [
+    {
+      "id": "1",
+      "title": "Create Professional Resume within 2 Mints 1",
+      "subtitle": " Any experience and fresher graduate and under undergraduate 1",
+      "description": "Discover expert-crafted content suggestions and create a professional job application in minutes 1.",
+      "image": "img/hero1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Create Professional Resume within 2 Mints 2",
+      "subtitle": " Any experience and fresher graduate and under undergraduate 2",
+      "description": "Discover expert-crafted content suggestions and create a professional job application in minutes 2.",
+      "image": "img/hero2.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Create Professional Resume within 2 Mints 3",
+      "subtitle": " Any experience and fresher graduate and under undergraduate 3",
+      "description": "Discover expert-crafted content suggestions and create a professional job application in minutes 3.",
+      "image": "img/hero3.jpg"
+    }
+  ],
+  "profetionalcard": [
+    {
+      "id": "1",
+      "title": "Reasume Cutting Edge",
+      "description": "Font Awesome is the internet's icon library and toolkit used by millions",
+      "icons": "faFile"
+    },
+    {
+      "id": "2",
+      "title": "Profetional Extensive Experience",
+      "description": "Font Awesome is the internet's icon library and toolkit used by millions",
+      "icons": "faLinesLeaning"
+    },
+    {
+      "id": "3",
+      "title": "Resume Expert-Crafted Guides",
+      "description": "Font Awesome is the internet's icon library and toolkit used by millions",
+      "icons": "faProjectDiagram"
+    }
+  ],
+  "brands": [
+    {
+      "id": "1",
+      "name": "Brand 1",
+      "image": "/img/brand1.png"
+    },
+    {
+      "id": "2",
+      "name": "Brand 2",
+      "image": "/img/brand2.png"
+    },
+    {
+      "id": "3",
+      "name": "Brand 3",
+      "image": "/img/brand3.png"
+    },
+    {
+      "id": "4",
+      "name": "Brand 4",
+      "image": "/img/brand1.png"
+    },
+    {
+      "id": "5",
+      "name": "Brand 5",
+      "image": "/img/brand2.png"
+    }
+  ],
+  "helpItems": [
+    {
+      "id": "1",
+      "title": "Resume Builder",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum sunt, ducimus natus et esse eius rem veritatis saepe alias veniam molestias dolore voluptates.",
+      "image": "/img/cv.png"
+    },
+    {
+      "id": "2",
+      "title": "Cover Letter Tips",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum sunt, ducimus natus et esse eius rem veritatis saepe alias veniam molestias dolore voluptates.",
+      "image": "/img/cover-letter.png"
+    },
+    {
+      "id": "3",
+      "title": "Friendly Resume Templates",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum sunt, ducimus natus et esse eius rem veritatis saepe alias veniam molestias dolore voluptates.",
+      "image": "/img/hired.png"
+    },
+    {
+      "id": "4",
+      "title": "Career Advice",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum sunt, ducimus natus et esse eius rem veritatis saepe alias veniam molestias dolore voluptates.",
+      "image": "/img/advice.png"
+    },
+    {
+      "id": "5",
+      "title": "Resume Check",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum sunt, ducimus natus et esse eius rem veritatis saepe alias veniam molestias dolore voluptates.",
+      "image": "/img/search-resume.png"
+    },
+    {
+      "id": "6",
+      "title": " Content Suggestions",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum sunt, ducimus natus et esse eius rem veritatis saepe alias veniam molestias dolore voluptates.",
+      "image": "/img/resume.png"
+    }
+  ],
+  "steps": [
+    {
+      "id": "1",
+      "step": "01",
+      "title": "Pick a resume template",
+      "description": "Choose from 18 templates crafted by career professionals to help you land the interview.",
+      "image": "/img/Pick-template.png"
+    },
+    {
+      "id": "2",
+      "step": "02",
+      "title": "Fill in your info",
+      "description": "Enter your work experience, education, and skills into the template.",
+      "image": "/img/Fill-info.png"
+    },
+    {
+      "id": "3",
+      "step": "03",
+      "title": "Customize your layout",
+      "description": "Adjust colors, fonts, and sections to suit your personal style.",
+      "image": "/img/Customize-layout.png"
+    },
+    {
+      "id": "4",
+      "step": "04",
+      "title": "Download & apply",
+      "description": "Save your resume as PDF and start applying to jobs instantly.",
+      "image": "/img/Download-apply.png"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Alice Johnson",
+      "text": "This service changed my life! You can get a list of all testimonials by issuing a GET request to the testimonials endpoint. This will respond with an array of testimonial objects, including all video and text testimonials.",
+      "avatar": "/img/clients.png"
+    },
+    {
+      "id": "2",
+      "name": "Bob Smith",
+      "text": "Fantastic experience from start to finish. You can get a list of all testimonials by issuing a GET request to the testimonials endpoint. This will respond with an array of testimonial objects, including all video and text testimonials.",
+      "avatar": "/img/clients.png"
+    },
+    {
+      "id": "3",
+      "name": "Charlie Rose",
+      "text": "Highly recommend to anyone looking for quality.You can get a list of all testimonials by issuing a GET request to the testimonials endpoint. This will respond with an array of testimonial objects, including all video and text testimonials.",
+      "avatar": "/img/clients.png"
+    },
+    {
+      "id": "4",
+      "name": "Alice Johnson",
+      "text": "This service changed my life! You can get a list of all testimonials by issuing a GET request to the testimonials endpoint. This will respond with an array of testimonial objects, including all video and text testimonials.",
+      "avatar": "/img/clients.png"
+    },
+    {
+      "id": "5",
+      "name": "Bob Smith",
+      "text": "Fantastic experience from start to finish. You can get a list of all testimonials by issuing a GET request to the testimonials endpoint. This will respond with an array of testimonial objects, including all video and text testimonials.",
+      "avatar": "/img/clients.png"
+    },
+    {
+      "id": "6",
+      "name": "Charlie Rose",
+      "text": "Highly recommend to anyone looking for quality.You can get a list of all testimonials by issuing a GET request to the testimonials endpoint. This will respond with an array of testimonial objects, including all video and text testimonials.",
+      "avatar": "/img/clients.png"
+    }
+  ],
+  "templates": [
+    {
+      "id": "1",
+      "name": "Classic",
+      "description": "All our resume templates are entirely ATS-friendly. We ensure that each template uses a clean layout.",
+      "image": "/img/usetemp1.png"
+    },
+    {
+      "id": "2",
+      "name": "Modern",
+      "description": "All our resume templates are entirely ATS-friendly. We ensure that each template uses a clean layout..",
+      "image": "/img/usetemp2.png"
+    },
+    {
+      "id": "3",
+      "name": "Creative",
+      "description": "All our resume templates are entirely ATS-friendly. We ensure that each template uses a clean layout.",
+      "image": "/img/usetemp3.png"
+    },
+    {
+      "id": "4",
+      "name": "Premium",
+      "description": "All our resume templates are entirely ATS-friendly. We ensure that each template uses a clean layout.",
+      "image": "/img/usetemp4.png"
+    },
+    {
+      "id": "5",
+      "name": "Student",
+      "description": "All our resume templates are entirely ATS-friendly. We ensure that each template uses a clean layout.",
+      "image": "/img/usetemp5.png"
+    },
+    {
+      "id": "6",
+      "name": "Professional",
+      "description": "All our resume templates are entirely ATS-friendly. We ensure that each template uses a clean layout.",
+      "image": "/img/usetemp6.png"
+    }
+  ],
+  "componyhistori": [
+    {
+      "id": "1",
+      "dataset": "05/01/2025",
+      "title": "Official InterviewMepl launch. 1"
+    },
+    {
+      "id": "2",
+      "dataset": "05/01/2025",
+      "title": "Official InterviewMepl launch. 2"
+    },
+    {
+      "id": "3",
+      "dataset": "05/01/2025",
+      "title": "Official InterviewMepl launch. 3"
+    },
+    {
+      "id": "4",
+      "dataset": "05/01/2025",
+      "title": "Official InterviewMepl launch. 4"
+    },
+    {
+      "id": "5",
+      "dataset": "05/01/2025",
+      "title": "Official InterviewMepl launch. 5"
+    },
+    {
+      "id": "6",
+      "dataset": "05/01/2025",
+      "title": "Official InterviewMepl launch. 6"
+    },
+    {
+      "id": "7",
+      "dataset": "05/01/2025",
+      "title": "Official InterviewMepl launch. 7"
+    },
+    {
+      "id": "8",
+      "dataset": "05/01/2025",
+      "title": "Official InterviewMepl launch. 8"
+    },
+    {
+      "id": "9",
+      "dataset": "05/01/2025",
+      "title": "Official InterviewMepl launch. 9"
+    },
+    {
+      "id": "10",
+      "dataset": "05/01/2025",
+      "title": "Official InterviewMepl launch. 10"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "slug": "nextjs-complete-guide",
+      "title": "Next.js Complete Guide",
+      "image": "/img/blog1.jpg",
+      "category": "Development",
+      "author": "Admin",
+      "date": "08 June 2026",
+      "description": "Learn everything about Next.js including routing, API routes, SSR, SSG and deployment.",
+      "content": "This is full blog content for Next.js. Here you can add complete article details..."
+    },
+    {
+      "id": 2,
+      "slug": "typescript-best-practices",
+      "title": "TypeScript Best Practices",
+      "image": "/img/blog2.jpg",
+      "category": "Programming",
+      "author": "Admin",
+      "date": "10 June 2026",
+      "description": "Best practices for writing clean and scalable TypeScript applications.",
+      "content": "Detailed TypeScript article content goes here..."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "slug": "ecommerce-website",
+      "title": "Ecommerce Website",
+      "image": "/img/portfolio1.jpg",
+      "category": "Web Development",
+      "client": "ABC Company",
+      "date": "08 June 2026",
+      "description": "Modern ecommerce website built with Next.js.",
+      "content": "Complete project details for ecommerce website."
+    },
+    {
+      "id": 2,
+      "slug": "resume-builder-app",
+      "title": "Resume Builder App",
+      "image": "/img/portfolio2.jpg",
+      "category": "Web Application",
+      "client": "XYZ Company",
+      "date": "10 June 2026",
+      "description": "Online resume builder application.",
+      "content": "Complete project details for resume builder."
+    }
+  ],
+  "contacts": [
+    {
+      "id": "0b91",
+      "name": "Jaihind Dev",
+      "email": "jaihind.dev@graygraph.com",
+      "phone": "9909099999",
+      "message": "hjhhkhj",
+      "createdAt": "2026-06-08T08:07:38.973Z"
+    },
+    {
+      "name": "Jaihind Dev",
+      "email": "jaihind.dev@graygraph.com",
+      "phone": "9909099999",
+      "message": "fhtuytiyuiyuouiouo",
+      "createdAt": "2026-06-08T09:49:14.968Z",
+      "id": "v2eG4Mx"
+    },
+    {
+      "name": "Sohan Smith",
+      "email": "sohan.smith@example.com",
+      "phone": "9909099999",
+      "message": "Experienced Full Stack Developer with 5+ years",
+      "createdAt": "2026-06-11T12:51:11.727Z",
+      "id": "xH09-63"
+    },
+    {
+      "name": "Jaihind Dev",
+      "email": "jaihind.dev@graygraph.com",
+      "subject": "ioioio",
+      "message": "yuiuyiy",
+      "createdAt": "2026-06-11T13:00:59.589Z",
+      "id": "X-ntPYm"
+    },
+    {
+      "name": "Sanjeev ",
+      "email": "sanjeev@gmail.com",
+      "phone": "9083466547",
+      "message": "Where to go, where to stay and what to do are now delivered as easily bookable recommendations and  complete itineraries.",
+      "createdAt": "2026-09-28T10:59:55.861Z",
+      "id": "siH_1Qn"
+    }
+  ],
+  "application": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "email": "admin@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "password": "1234568"
+    }
+  ]
+}

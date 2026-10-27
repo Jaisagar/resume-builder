@@ -1,0 +1,64 @@
+@font-face {
+  font-family: 'HKGroteskBold';
+  src: url('../../public/fonts/HKGrotesk-Bold.ttf') ;
+}
+@font-face {
+  font-family: 'HKGroteskLight';
+  src: url('../../public/fonts/HKGrotesk-Light.ttf');
+}
+@font-face {
+  font-family: 'HKGroteskMedium';
+  src: url('../../public/fonts/HKGrotesk-Medium.ttf');
+}
+@font-face {
+  font-family: 'HKGroteskRegular';
+  src: url('../../public/fonts/HKGrotesk-Regular.ttf');
+}
+@font-face {
+  font-family: 'neutratext';
+  src: url('../../public/fonts/neutra-text-alt.otf') ;
+}
+@font-face {
+  font-family: 'neutrabold';
+  src: url('../../public/fonts/neutra-text-bold.otf');
+}
+@font-face {
+  font-family: 'neutralight';
+  src: url('../../public/fonts/neutra-text-light.otf');
+}
+@font-face {
+  font-family: 'Neuro';
+  src: url('../../public/fonts/neutra-text-tf.otf');
+}
+
+body{
+    color: #000;
+    font-size: 1rem;
+ font-family: 'Neuro';
+font-weight: normal;
+font-style: normal;
+}
+h1{
+    font-family: 'HKGroteskBold';
+  
+}
+h2{
+    font-family: 'HKGroteskBold';
+ 
+}
+h3{
+    font-family: 'HKGroteskBold';
+   
+}
+h4{
+    font-family: 'HKGroteskBold';
+   
+}
+h5{
+    font-family: 'HKGroteskBold';
+  
+}
+h6{
+    font-family: 'HKGroteskBold';
+
+}
