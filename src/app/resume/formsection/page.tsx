@@ -6,7 +6,7 @@ import Innerbaner from '@/src/components/Innerbaner';
 import { faFacebook, faInstagram, faLinkedinIn, faTwitter, faYoutube } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelopeOpen, faMapLocation, faPhoneAlt } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import React, { useRef, useState } from 'react'
+import React, { useEffect, useRef, useState } from 'react'
 import Profile from '../../../../public/img/profile.jpg'
 import Image from 'next/image';
 const steps = ['Personal Information', 'Education Details', 'Experience Details', 'Skills', 'Summary', 'Finalize'];
@@ -108,9 +108,31 @@ const Page = () => {
     const [isUploading, setIsUploading] = useState(false)
     const [isSaving, setIsSaving] = useState(false)
     const [uploadError, setUploadError] = useState('')
+    const [autofillNotice, setAutofillNotice] = useState('')
     const [saveError, setSaveError] = useState('')
     const imageInputRef = useRef<HTMLInputElement>(null)
     const formRef = useRef<HTMLFormElement>(null)
+
+    useEffect(() => {
+        const savedResume = sessionStorage.getItem('resume-autofill')
+        if (!savedResume) return
+
+        sessionStorage.removeItem('resume-autofill')
+        try {
+            const extracted = JSON.parse(savedResume) as Partial<typeof formData>
+            setFormData((previous) => ({
+                ...previous,
+                ...extracted,
+                experiences: extracted.experiences?.length ? extracted.experiences : previous.experiences,
+                technicalskills: extracted.technicalskills?.length ? extracted.technicalskills : previous.technicalskills,
+                languages: extracted.languages?.length ? extracted.languages : previous.languages,
+                softwareItems: extracted.softwareItems?.length ? extracted.softwareItems : previous.softwareItems,
+            }))
+            setAutofillNotice('We filled in the details we could detect. Review and complete any missing fields before continuing.')
+        } catch {
+            setUploadError('Resume uploaded, but its detected details could not be loaded.')
+        }
+    }, [])
     // handle input change
     const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
         const { name, value } = e.target
@@ -290,6 +312,7 @@ const Page = () => {
         <>
             <form ref={formRef} onSubmit={handleSubmit}>
                 <div className='container'>
+                    {autofillNotice && <p className="alert alert-info" role="status">{autofillNotice}</p>}
                     {step === 1 && (
                         <div className='personal-info'>
                             <h4><span className='step'>01</span> Personal Information</h4>

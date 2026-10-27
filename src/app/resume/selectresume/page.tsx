@@ -60,12 +60,15 @@ const Page: React.FC = () => {
         method: 'POST',
         body: uploadData,
       })
-      const result: { resumeFile?: string; error?: string } = await response.json()
+      const result: { resumeFile?: string; resumeData?: Record<string, unknown>; error?: string } = await response.json()
 
       if (!response.ok || !result.resumeFile) {
         throw new Error(result.error || 'Resume upload failed.')
       }
 
+      if (result.resumeData) {
+        sessionStorage.setItem('resume-autofill', JSON.stringify(result.resumeData))
+      }
       router.push(`/resume/formsection?sourceResume=${encodeURIComponent(result.resumeFile)}`)
     } catch (uploadError) {
       setError(uploadError instanceof Error ? uploadError.message : 'Resume upload failed.')
@@ -151,4 +154,3 @@ const Page: React.FC = () => {
 }
 
 export default Page
-

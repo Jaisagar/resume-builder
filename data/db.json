@@ -451,6 +451,87 @@
       "software": "afsf, zvvv",
       "sourceResume": "/uploads/d3b1f28b-b221-4185-95a0-a563e568de39.docx",
       "id": "BJlmxAR"
+    },
+    {
+      "firstname": "ADITI ",
+      "lastname": "CHANDSARE",
+      "profilePic": "/uploads/95bfd604-b695-4331-ad11-368623eeafad.png",
+      "email": "chandsareaditi@gmail.com",
+      "phone": "7972518380",
+      "fulladdress": "BLOCK NO.: 5B-1101 kalpatru Serenity, mahadev nagar, majari BK PUNE MAHARASTRA PIN CODE: 412307",
+      "city": "MAHARASTRA ",
+      "country": "India",
+      "linkedinurl": "https://www.linkedin.com/",
+      "facebookurl": "https://www.facebook.com/",
+      "twitterurl": "https://www.x.com/",
+      "degreequalification": "•\tM.C.S (COMP)(2014)Pune University",
+      "degreeinstitutionname": "•\tM.C.S (COMP)(2014)Pune University",
+      "degreeinstitutionlocation": "Pune ",
+      "degreepassingyears": "2014",
+      "degreegradescgpa": "63.40%",
+      "collageboardname": "•\tB.C.S (COMP) (2012) Pune University",
+      "collagename": "•\tB.C.S (COMP) (2012) Pune University",
+      "collagelocation": "Pune ",
+      "collagecgpa": "62.40%",
+      "collagepassingyears": "2012",
+      "schoolboardname": "•\tM.C.S Pune University",
+      "schoolname": "•\tM.C.S Pune University",
+      "schoollocation": "Pune ",
+      "schoolcgpa": "62.40%",
+      "schoolpassingyears": "2010",
+      "experiences": [
+        {
+          "jobtitle": ":UI Developer",
+          "organizationname": "Dolphin RFID",
+          "organizationlocation": "Pune",
+          "datesemployment": "2013",
+          "usetechnology": "Angular Js HTML5, CSS3,  JavaScript, Jquery,  DHTML, Bootstrap,Photoshop",
+          "responsibilitiesachievements": "I have worked in my latest experience on RFID Project, It is basically on RFID Tag project there is Asset Tracking System.its Use in  Hospitality Managment, Health Care,TRANSPORT,EDUCATION,BANKING & FINANCIAL SERVICES,DEFENCE ETC."
+        },
+        {
+          "jobtitle": "UI Developer",
+          "organizationname": "Trust systems and softwares",
+          "organizationlocation": "Pune",
+          "datesemployment": "2013",
+          "usetechnology": "HTML5, CSS3,  JavaScript, Jquery,  DHTML,  Photoshop",
+          "responsibilitiesachievements": "I have worked on MicroFinS, The MicroFinS is a Browser Based Core Banking Solution for Saving and Credit Co-operative Society (SACCOS), Employee Credit Union, Microfinance Institution, Microcredit, Multistate Cooperative, Rural and Community Banks, Private Finance Companies & Small Sizes "
+        },
+        {
+          "jobtitle": "UI Developer",
+          "organizationname": "VirtuousMediaPoint ",
+          "organizationlocation": "Pune",
+          "datesemployment": "2013",
+          "usetechnology": "HTML5, CSS3, Jquery,Javascript",
+          "responsibilitiesachievements": "PREMS is a complete management software for real estate Business. PREMS is web based application. Software that will control all entities in real-estate business like Material, Machines, Man from single power user i.e. Builder. There are various modules that are under one umbrella Like Human Resource , Purchase, Accounting, Sales and Marketing, Licensing, Configuration, etc."
+        }
+      ],
+      "technicalskills": [
+        "HTML5",
+        "CSS",
+        "Javascript"
+      ],
+      "languages": [
+        "Hindi",
+        "English",
+        "Marathi"
+      ],
+      "softwareItems": [
+        "Photoshop",
+        "My SQL",
+        "ANGULER"
+      ],
+      "summary": " Seeking a challenging position where I get an opportunity to learn and grow, both personally and professionally in the areas of software development, while actively contributing to the growth and development of the company.  Seeking a challenging position where I get an opportunity to learn and grow, both personally and professionally in the areas of software development, while actively contributing to the growth and development of the company.",
+      "jobtitle": ":UI Developer",
+      "organizationname": "Dolphin RFID",
+      "organizationlocation": "Pune",
+      "datesemployment": "2013",
+      "usetechnology": "Angular Js HTML5, CSS3,  JavaScript, Jquery,  DHTML, Bootstrap,Photoshop",
+      "responsibilitiesachievements": "I have worked in my latest experience on RFID Project, It is basically on RFID Tag project there is Asset Tracking System.its Use in  Hospitality Managment, Health Care,TRANSPORT,EDUCATION,BANKING & FINANCIAL SERVICES,DEFENCE ETC.",
+      "technicalskill": "HTML5, CSS, Javascript",
+      "language": "Hindi, English, Marathi",
+      "software": "Photoshop, My SQL, ANGULER",
+      "id": "NFo9rzr",
+      "sourceResume": ""
     }
   ],
   "resumes": [
